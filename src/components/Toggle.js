@@ -1,7 +1,7 @@
 import React from "react";
 
-function Toggle() {
+export const Toggle=()=> {
   return <button>OFF</button>;
 }
 
-export default Toggle;
+
